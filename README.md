@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-{
-background-color="red";
-}
-</style>
+
 </head>
 <body>
 
