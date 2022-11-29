@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
+  p {
+  color: red;
+  text-align: center;
+}
 
 </head>
 <body>
