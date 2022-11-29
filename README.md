@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  p {
-  color: red;
+h1 {
+  color: white;
   text-align: center;
 }
 
