@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    h1 {
-  color: white;
-  text-align: center;
-}
-  </style>
 
 </head>
 <body>
