@@ -3,7 +3,7 @@
 <head>
 <style>
 {
-background-color:red;
+background-color="red";
 }
 </style>
 </head>
